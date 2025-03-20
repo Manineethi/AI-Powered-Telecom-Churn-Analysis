@@ -1,6 +1,6 @@
-📋 Project Overview
+## 📋 Project Overview
 
-This project, **AI-Powered Telecom Churn Prediction**, focuses on analyzing and predicting customer churn in a telecom dataset of 7,043 customers (27% churn rate). The goal is to identify at-risk customers and provide data-driven retention strategies, maximizing **Churn Recall** (target: 80%) to catch as many churners as possible. The project combines descriptive analysis (churn patterns) and predictive analysis (machine learning models) to deliver actionable insights.
+This project, **AI-Powered Telecom Churn Prediction**, focuses on analyzing and predicting customer churn in a telecom dataset of 7,043 customers (27% churn rate). The goal is to identify at-risk customers and provide data-driven retention strategies, maximizing **Churn Recall**  to catch as many churners as possible. The project combines descriptive analysis (churn patterns) and predictive analysis (machine learning models) to deliver actionable insights.
 
 Key Achievements
 - **Descriptive Analysis**: Identified churn patterns using Power BI, revealing that month-to-month contract users, fiber optic users, and electronic check payers are most likely to churn.
