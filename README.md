@@ -15,5 +15,4 @@ Key Achievements
   - Python: For data preprocessing and modeling.
   - scikit-learn: For building SVM and Random Forest models.
   - pandas: For data cleaning and preprocessing.
-  - matplotlib: For visualizing feature importance and model performance.
 - **Other**: Pycharm Community edition (for Python code), CSV files (for storing model metrics).
